@@ -1,0 +1,68 @@
+[
+    {
+      "UserId": "65809f166bdf0c818d1296ac",
+      "Name":"moorthi",
+      "HotelId": "657f268b564d248a022074b9",
+      "Feedback": "Great experience!",
+      "Post": "https://b.zmtcdn.com/data/reviews_photos/3ad/0f36e7d550de177e4ca67a54463dd3ad_1643533839.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+      
+      "Reply": [
+        {
+          "UserId": "658090a8005f5b50cc0dccad",
+          "Name":"Dhatchinamoorthi R",
+          "Feedback": "Thank you for your Feedback!",
+          "Vote": 3
+        }
+      ],
+      "Vote": 4
+    },
+    {
+      "UserId": "65809f166bdf0c818d1296ac",
+      "Name":"moorthi",
+      "HotelId": "657f268b564d248a022074b6",
+      "Feedback": "The service was excellent.",
+      "Reply": [],
+      "Vote": 5
+    },
+    {
+      "UserId": "658090a8005f5b50cc0dccad",
+      "Name":"Dhatchinamoorthi R",
+      "HotelId": "657f268b564d248a022074b6",
+      "Feedback": "Needs improvement.",
+      "Reply": [
+        {
+          "UserId": "65809f166bdf0c818d1296ac",
+          "Name":"moorthi",
+          "Feedback": "We appreciate your Feedback and will work on it.",
+          "Vote": 2
+        }
+      ],
+      "Vote": 2
+    },
+    {
+      "UserId": "658090a8005f5b50cc0dccad",
+      "Name":"Dhatchinamoorthi R",
+      "HotelId": "657f268b564d248a022074b9",
+      "Feedback": "Average experience.",
+      "Reply": [],
+      "Vote": 3
+    },
+    {
+      "UserId": "65809f166bdf0c818d1296ac",
+      "Name":"moorthi",
+      "HotelId": "657f268b564d248a022074b8",
+      "Feedback": "Outstanding service!",
+      "Reply": [
+        {
+          "UserId": "658090a8005f5b50cc0dccad",
+          "Name":"Dhatchinamoorthi R",
+          "Feedback": "We're glad you enjoyed our service!",
+          "Vote": 4
+        }
+      ],
+      "Vote": 5
+    }
+  ]
+  
+
+  
